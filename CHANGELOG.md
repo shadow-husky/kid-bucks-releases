@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1.2
+
+- Tablet alignment/centering pass
+- Wallet dashboard remains scrollable
+- Parent Mode screens adjusted
+- Update checker and App Info still working
+- No economy/data format changes expected
+
 ## v0.1.0
 
 Initial Android tablet test build.

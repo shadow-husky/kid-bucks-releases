@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.1.4",
-  "version_code": 5,
+  "latest_version": "0.1.5",
+  "version_code": 6,
   "min_supported_version_code": 1,
-  "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.4/KidBucks-0.1.4.apk",
+  "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.5/KidBucks-0.1.5.apk",
   "notes": "Testing New Image boot2",
   "release_date": "2026-05-25",
   "channel": "test"

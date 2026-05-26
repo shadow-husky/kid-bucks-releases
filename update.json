@@ -3,7 +3,7 @@
   "version_code": 5,
   "min_supported_version_code": 1,
   "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.4/KidBucks-0.1.4.apk",
-  "notes": "Fixed internal app version reporting so the update checker correctly recognizes the installed build.",
+  "notes": "Improved tablet button sizes and text readability.",
   "release_date": "2026-05-25",
   "channel": "test"
 }

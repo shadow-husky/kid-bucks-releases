@@ -3,7 +3,7 @@
   "version_code": 4,
   "min_supported_version_code": 1,
   "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.3/KidBucks-Test-Update-Checker-V0.1.3.apk",
-  "notes": "Fixed tablet alignment and centering across wallet, kid, and parent screens. Improved responsive layout behavior while keeping the update checker, App Info, and existing Kid Bucks features working.",
+  "notes": "Fixed internal app version reporting so update checker correctly recognizes the installed build.",
   "release_date": "2026-05-25",
   "channel": "test"
 }

@@ -1,6 +1,6 @@
 {
   "latest_version": "0.1.0",
-  "version_code": 1,
+  "version_code": 2,
   "min_supported_version_code": 1,
   "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.0/KidBucks-Test-V0.1.apk",
   "notes": "Initial Android tablet test build with Kid Bucks wallets, chores, rewards, savings goals, cash-outs, parent mode, and manual update checking.",

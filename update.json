@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.1.5",
-  "version_code": 6,
+  "latest_version": "0.1.6",
+  "version_code": 7,
   "min_supported_version_code": 1,
-  "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.5/KidBucks-0.1.5.apk",
+  "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.6/KidBucks-0.1.6.apk",
   "notes": "New update",
   "release_date": "2026-05-25",
   "channel": "test"

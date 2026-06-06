@@ -3,7 +3,7 @@
   "version_code": 7,
   "min_supported_version_code": 1,
   "apk_url": "https://github.com/shadow-husky/kid-bucks-releases/releases/download/v0.1.6/KidBucks-0.1.6.apk",
-  "notes": "New update",
+  "notes": "Added Passcode and add kid",
   "release_date": "2026-05-25",
   "channel": "test"
 }
